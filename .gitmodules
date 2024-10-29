@@ -4,3 +4,9 @@
 [submodule "python/pybind11"]
 	path = python/pybind11
 	url = https://github.com/pybind/pybind11
+[submodule "convert"]
+	path = convert
+	url = https://github.com/Ghoelian/albert-convert.git
+[submodule "uuid"]
+	path = uuid
+	url = https://github.com/Ghoelian/albert-uuid.git
